@@ -1,5 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
-
     background-image: url(https://images.unsplash.com/photo-1482859454392-1b5326395032?ixlib=rb-0.3.5&s=d6626ed12958a5995efb9725bd15db91&w=1000&q=80);
     color: whitesmoke;
     background-size: 100% 100vh;
@@ -7,6 +10,10 @@ body{
 }
 
 ul{
+    display: block;
+    /* background: black; */
+    height: 50px;
+    background-size: cover;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -16,6 +23,7 @@ ul{
 li {
     /* display: block; */
     float: left;
+    padding-top: 10px;
 }
 
 li a{
