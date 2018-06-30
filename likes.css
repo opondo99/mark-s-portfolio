@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://www.dustjacketreview.com/wp-content/uploads/2016/05/SPRTT1N.jpg);
+    color: antiquewhite;
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+}
+
+a{
+    display: block;
+    padding: 10px;
+    color: antiquewhite;
+    text-decoration: none; 
+    float: right;
+}
+
+h1{
+    /* text-align: center; */
+    /* padding-top: 10%; */
+    padding-left: 5%;
+    color: whitesmoke; 
+    padding-top: 10px;   
+}
+
+.likes{
+    display: grid;
+    padding-right: 60%;
+    line-height: 3;
+}
+
+.home{
+    background-image: url()
+}

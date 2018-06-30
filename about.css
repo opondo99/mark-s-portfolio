@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://orig00.deviantart.net/33e5/f/2014/341/e/d/old_street_sunetset_by_ahmadturk-d88rmao.jpg);
+    background-size: 100% 120vh;
+    background-repeat: no-repeat;
+    color: whitesmoke
+}
+
+h1{
+    text-align: center;
+    padding-top: 10%;
+}
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.background{
+    text-align: center;
+    padding:20px;
+}
